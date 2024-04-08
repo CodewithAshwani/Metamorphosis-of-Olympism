@@ -49,7 +49,7 @@ Version Control: Git, GitHub (for collaboration and version control)
 Ques-1: How many olympics games have been held?
 
 <img width="738" alt="1" src="https://github.com/CodewithAshwani/OLYMPICS-HISTORY/assets/73930456/31d98058-1068-4157-b08d-5f282e15db48">
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Ques-2: List down all Olympics games held so far?
 
 <img width="603" alt="2" src="https://github.com/CodewithAshwani/OLYMPICS-HISTORY/assets/73930456/a14bc6ed-dcce-4860-87ea-04b5f316b641">
