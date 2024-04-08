@@ -44,13 +44,8 @@ Tools: Jupyter Notebook, Tableau (for interactive visualization),postgresql
 Version Control: Git, GitHub (for collaboration and version control)
 
 
-**Conclusion:**
-Through comprehensive analysis of the historical Olympic dataset, this project aims to shed light on the evolution of the Games and provide valuable insights into various aspects of Olympic participation and performance. 
-By understanding the trends and patterns within the data, we can gain a deeper appreciation for the cultural, social, and sporting significance of the Olympic movement, and inform future research and decision-making in the field.
+**Output Files:**
 
-
-
-Output Files:
 Ques-1: How many olympics games have been held?
 
 <img width="738" alt="1" src="https://github.com/CodewithAshwani/OLYMPICS-HISTORY/assets/73930456/31d98058-1068-4157-b08d-5f282e15db48">
@@ -131,3 +126,16 @@ Ques-19:In which Sport/event, India has won highest medals?
 Ques-20:Break down all olympic games where india won medal for Hockey and how many medals in each olympic games?
 
 <img width="743" alt="20" src="https://github.com/CodewithAshwani/OLYMPICS-HISTORY/assets/73930456/ae03c59c-3926-4cdb-8dd9-9f2a51d7e2de">
+
+
+
+
+
+
+
+
+
+
+**Conclusion:**
+Through comprehensive analysis of the historical Olympic dataset, this project aims to shed light on the evolution of the Games and provide valuable insights into various aspects of Olympic participation and performance. 
+By understanding the trends and patterns within the data, we can gain a deeper appreciation for the cultural, social, and sporting significance of the Olympic movement, and inform future research and decision-making in the field.
