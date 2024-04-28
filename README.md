@@ -2,7 +2,7 @@
 
 
 **Title of the Project:**
-"The Evolution of Olympic Games: A Data Analysis from Athens 1896 to Rio 2016"
+"Metamorphosis of Olympism: Tracing the Evolution of Athletic Spectacle, A Data Analysis from Athens 1896 to Rio 2016"
 
 **Problem Statement:**
 The modern Olympic Games have a rich history spanning over a century, with each event showcasing the pinnacle of athletic achievement from around the world. 
